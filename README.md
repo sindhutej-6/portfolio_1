@@ -39,7 +39,7 @@ A fully responsive, animated personal portfolio website built with React + Vite.
 ### Install & Run
 
 ```bash
-git clone https://github.com/sindhutej-6/portfolio.git
+git clone https://github.com/sindhutej-6/portfolio_1.git
 cd portfolio
 npm install
 npm run dev
