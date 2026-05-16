@@ -4,7 +4,7 @@ A fully responsive, animated personal portfolio website built with React + Vite.
 
 ## 🔗 Live Demo
 
-**[View Live Site →](https://your-deployment-url-goes-here.vercel.app)**
+**[View Live Site →](https://portfolio-1-two-green.vercel.app/)**
 
 > After deploying, update this link with your actual Vercel/Netlify URL.
 
